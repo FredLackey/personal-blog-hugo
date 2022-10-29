@@ -1,0 +1,4 @@
+baseURL = 'http://fredlackey.com/'
+languageCode = 'en-us'
+title = 'Helpful Info & Otherwise Senseless Ramblings from Fred Lackey'
+theme = "ananke"
